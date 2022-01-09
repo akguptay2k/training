@@ -1,1 +1,1 @@
-print('Welcoming team !!!!!')
+print('Welcoming team !')
